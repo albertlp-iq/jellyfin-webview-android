@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Jellyfin WebView</string>
+    <string name="enter_server_url">Connect to Jellyfin Server</string>
+    <string name="server_url_hint">http://192.168.1.100:8096</string>
+    <string name="connect">Connect</string>
+    <string name="change_server">Change Server</string>
+    <string name="reload">Reload</string>
+    <string name="invalid_url">Please enter a valid HTTP/HTTPS URL</string>
+</resources>

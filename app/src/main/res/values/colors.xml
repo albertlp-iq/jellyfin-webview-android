@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="jellyfin_bg">#101010</color>
+    <color name="jellyfin_card">#202020</color>
+    <color name="jellyfin_primary">#00A4DC</color>
+    <color name="jellyfin_accent">#AA5CC3</color>
+    <color name="white">#FFFFFF</color>
+    <color name="gray_text">#B3B3B3</color>
+</resources>
